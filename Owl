@@ -1,0 +1,46 @@
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <div class="background">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WBGB Official</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <div class="header"
+    <center><h1><strong>Wrongbad Goback</strong></h1></center>
+    <center><h6>giving you <em>bad</em> comics since <a href="https://en.wikipedia.org/wiki/Black_Death">1346</a></h6></center>
+
+    </div>
+
+    
+
+    <center><div class="navbar">
+        <a href="homepage.html">Home /</a>
+        <a href="About">About /</a>
+        <a href="Games">Games /</a>
+        <div class="dropdown">
+          <button class="dropbtn">Comics
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="stringtheory">String Theory</a>
+            <a href="BASE">BASE</a>
+            <a href="Owl">M.F.T.O</a>
+        
+
+          </div>
+        </div> 
+      </div>
+    
+        </div> 
+</head>
+<body>
+    <center><h1>My Friend the Owl</h1></center>
+    <center><h3>Girl meets boy. </h3></center>
+    <center><h3>Boy is actually an owl.</h3></center>
+    <center><h3>Hijinks ensue.</h3></center>
+
+    <center><img src="images/davy.png" style=width:400px;</center>
+    
+</body>
+</html>

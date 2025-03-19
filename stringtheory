@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <div class="background">
+      <body class="background2"></body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WBGB Official</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <div class="header"
+    <center><h1><strong>Wrongbad Goback</strong></h1></center>
+    <center><h6>giving you <em>bad</em> comics since <a href="https://en.wikipedia.org/wiki/Black_Death">1346</a></h6></center>
+
+    </div>
+
+    
+
+    <center><div class="navbar">
+        <a href="homepage.html">Home /</a>
+        <a href="About">About /</a>
+        <a href="Games">Games /</a>
+        <div class="dropdown">
+          <button class="dropbtn">Comics
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="stringtheory">String Theory</a>
+            <a href="BASE">BASE</a>
+            <a href="Owl">M.F.T.O</a>
+        
+
+          </div>
+        </div> 
+      </div>
+    
+        </div> 
+    <center><h1>String Theory</h1>
+</head>
+
+<body>
+<center><p class="p1">It's the year 20AB. In the thriving post-apocalyptic world of Deadstock, a nobody pizza delivery guy finds himself thrown into a prestigious science role when a hopeful professor takes a chance with the man after showing his knack for mechanics.</p></center>
+
+<center><p class="p1">Tasked with proving himself to his new higherups at oTech, and making sure the city of Orlon gets their pizza needs fulfilled, an exciting new life is beginning for Houston Hamada.</p></center>
+
+<center><p class="p1">And maybe, just maybe, he might actually become a somebody.</p></center>
+
+</body>
+</html>
